@@ -10,9 +10,9 @@ Get the newest version from the [Releases page](https://github.com/micahc123/meg
 
 | Your computer | File |
 |---|---|
-| Newer Mac, anything with an M chip | `Megaedit-1.0.0-arm64.dmg` |
-| Older Intel Mac | `Megaedit-1.0.0-intel.dmg` |
-| Windows 10 or 11 | `Megaedit-Setup-1.0.0.exe` |
+| Newer Mac, anything with an M chip | `Megaedit-1.0.1-arm64.dmg` |
+| Older Intel Mac | `Megaedit-1.0.1-intel.dmg` |
+| Windows 10 or 11 | `Megaedit-Setup-1.0.1.exe` |
 
 Not sure which Mac you have? Apple menu, then About This Mac. If it says "Apple M", take the first one.
 
